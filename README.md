@@ -94,3 +94,5 @@ Your Python program should follow the provided guidelines and adhere to the prog
 Remember to collaborate effectively with your lab partners, present your program to your classmates on the designated presentation date, and be open to accepting all critiques during the code review session.
 
 Good luck with your Python midterm assignment, and thank you for your dedication to learning Python programming!
+
+read and reviewed on Oct 7, 10:38 AM PDT
